@@ -1,0 +1,11 @@
+.container {
+  border-bottom: black solid 1px;
+}
+
+.logo {
+  padding-right: 5px;
+  padding: 4px;
+  background-color: rgba(0, 255, 0, 0.3);
+  font-weight: bold;
+  border-radius: 10px;
+}

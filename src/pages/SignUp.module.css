@@ -1,0 +1,48 @@
+.logo {
+  padding-right: 5px;
+  padding: 4px;
+  background-color: rgba(0, 255, 0, 0.3);
+  font-weight: bold;
+  border-radius: 10px;
+  font-size: 40px;
+}
+
+.container {
+  max-width: 70%;
+  margin-top: 100px;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding: 40px;
+  display: flex;
+  justify-content: space-between;
+  gap: 300px;
+  /* background-color: blueviolet; */
+}
+
+.name {
+  font-size: 40px;
+}
+
+.para {
+  font-weight: 100;
+}
+
+.box1 {
+  width: 100%;
+  /* background-color: red; */
+  /* margin-left: 100px; */
+}
+.box2 {
+  width: 100%;
+  /* background-color: yellow; */
+  /* margin-right: 100px; */
+}
+
+.btn {
+  margin-top: 15px;
+  width: 100%;
+}
+
+.color {
+  color: blue;
+}
